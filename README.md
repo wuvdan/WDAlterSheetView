@@ -1,5 +1,11 @@
 ![镇楼图](https://upload-images.jianshu.io/upload_images/3334769-b779b2b4e3c10261.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### CocoaPod导入
+如果没有找到建议`pod repo update`
+```
+pod 'WDAlterSheetView'
+```
+
 模仿微信底部弹窗样式。
 
 ### 接口文件
